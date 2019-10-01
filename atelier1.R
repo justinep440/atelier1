@@ -10,7 +10,6 @@ y<-sin(x)
 exp(1)
 pi
 
-
 #Variables
 tailles <- c(167, 192, 173, 174, 172, 167, 171, 185, 163, 170)
 length(tailles)#taille echantillon
