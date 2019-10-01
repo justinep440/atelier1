@@ -30,3 +30,5 @@ tailles.m
 imc<-poids/tailles.m^2
 imc
 donnees<-data.frame(tailles,poids,imc) #data.frame = base de données -> avec les 3 variables
+x<- seq(from=0,to=10^6,by=1)
+x[10000]
